@@ -1,6 +1,5 @@
-34 error Error: Command failed: git commit -F C:\Users\琴琴\AppData\Local\Temp\a6d72fa8-edeb-43b9-9acb-9931546a5d2e\lerna-commit.txt
-34 error On branch master
-34 error nothing to commit, working tree clean
-34 error
-34 error     at makeError (C:\Users\琴琴\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
-34 error     at Promise.all.then.arr (C:\Users\琴琴\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16)
+44 error Error: Command failed: git tag module-2@1.0.1 -m module-2@1.0.1
+44 error fatal: tag 'module-2@1.0.1' already exists
+44 error
+44 error     at makeError (C:\Users\琴琴\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
+44 error     at Promise.all.then.arr (C:\Users\琴琴\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16)
