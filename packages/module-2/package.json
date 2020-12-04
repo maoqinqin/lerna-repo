@@ -1,6 +1,6 @@
 {
   "name": "module-2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
-    "module-1": "^1.0.0"
+    "module-1": "^0.0.1"
   }
 }
